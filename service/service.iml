@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet __external-system-id="Maven" type="web" name="Web">
+      <facet type="webservices" name="WebServices">
+        <configuration ws.engine="Apache Axis 2" />
+      </facet>
+    </facet>
+  </component>
+</module>
