@@ -5,7 +5,7 @@ import org.apache.axis2.context.MessageContext;
 import org.apache.axis2.transport.http.CommonsHTTPTransportSender;
 
 /**
- * @author du.dawei
+ * @author 
  * @title CustomTransportSender
  * @projectName axis2
  * @date 7/31/2020 4:15 PM
